@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+paperurl: http://xuqingwenkk.github.io/files/CV_xuqw.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -11,30 +12,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, ShanghaiTech University & China Academic of Science, 2015.09 - 2021 (expected)
+* B.S. in Information Engineering , South East University, 2011.09 - 2015.06
 
-Work experience
+Internship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017: Automation Intern at TE Connectivity
+  * Develop A Robot Simulation System Based on ROS and Gazebo to verify the navigation algorithms
+  * Develop An App for Material Transportation Project
+  * Support on the Technology Evaluation of Material Transportation Project
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Robotics Intern at DeepGlint
+  * Improve the efficiency of SLAM algorithm: Cartographer
+  * Deploy Cartographer on the embedded board
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics
+  * ROS, C++, MATLAB
+  * Multi-sensor Calibration, SLAM
+* English : CET-6
 
 Publications
 ======
@@ -56,4 +53,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Team leader of MARS rescue team
+* Volunteer for RACV 2016
