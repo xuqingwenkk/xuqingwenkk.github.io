@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](http://xuqingwenkk.github.io/files/CV_xuqw.pdf)"
+title: "CV"
 permalink: /cv/
 paperurl: http://xuqingwenkk.github.io/files/CV_xuqw.pdf
 author_profile: true
@@ -37,12 +37,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
