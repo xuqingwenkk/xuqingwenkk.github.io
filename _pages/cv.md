@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](http://xuqingwenkk.github.io/files/CV_xuqw.pdf)"
 permalink: /cv/
 paperurl: http://xuqingwenkk.github.io/files/CV_xuqw.pdf
 author_profile: true
