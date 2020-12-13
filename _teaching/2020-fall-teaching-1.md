@@ -8,13 +8,4 @@ date: 2020-10-10
 location: "Shanghai, China"
 ---
 
-I co-teach this course with my advisor. 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I co-teach this course with my advisor. More information can be founded [here](https://robotics.shanghaitech.edu.cn/teaching/robotics2020). 
