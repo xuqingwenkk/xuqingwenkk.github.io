@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qingwen Xu"
 title_separator          : "-"
 name                     : &name "Qingwen Xu"
-description              : &description "PhD student"
+description              : &description "PhD"
 url                      : https://xuqingwenkk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuqingwenkk/xuqingwenkk.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qingwen Xu"
   avatar           : "xuqw.png"
-  bio              : "PhD student at ShanghaiTech University"
+  bio              : "PostDoc at Tongji University"
   location         : "Shanghai,China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
